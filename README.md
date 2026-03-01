@@ -19,4 +19,4 @@ Para ejecutar este proyecto en tu máquina local:
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/Ayrton-Vergara/Analisis-Ventas-Python.git](https://github.com/Ayrton-Vergara/Analisis-Ventas-Python.git)
+  git clone https://github.com/Ayrton-Vergara/Analisis-Ventas-Python.git
