@@ -19,4 +19,6 @@ Para ejecutar este proyecto en tu máquina local:
 
 1. Clona el repositorio:
    ```bash
-  git clone https://github.com/Ayrton-Vergara/Analisis-Ventas-Python.git
+   ```  <-- ¡Aquí está el error! Hay un espacio o salto de línea extra.
+
+git clone https://github.com/Ayrton-Vergara/Analisis-Ventas-Python.git
